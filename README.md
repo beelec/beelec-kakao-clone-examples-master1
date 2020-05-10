@@ -1,2 +1,1 @@
-# beelec/kakao-clone-examples-master1
- 
+# kakao-clone-examples
